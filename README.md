@@ -4,6 +4,7 @@
 <br>(Created based on the Andrei Neagoie's Udemy tutorial)</p>
 
 <strong>Tech Stack + Modules</strong>
+
 <ul>
   <li><a href="https://reactjs.org/">React</a></li>
   <li><a href="https://redux.js.org/">Redux</a></li>
