@@ -1,7 +1,7 @@
 {
   "name": "robofriends",
   "version": "0.1.0",
-  "homepage": "https://snikerslala.github.io/robofriends/",
+  "homepage": "https://martynaskup.github.io/robofriends/",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.0.1",
